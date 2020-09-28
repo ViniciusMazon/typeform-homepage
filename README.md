@@ -2,7 +2,7 @@
 
 Um clone do layout da página principal do [Typeform](https://www.typeform.com) utilizando a libray Framer-motion para criar as animações.
 
-
+[![demo twitter clone](readme/typeform-thumb.png)](https://youtu.be/Gjt9RxEe3c4 "demo typeform clone")
 
 
 Desenvolvido seguindo a aula  [Homepage Animada do Typeform com Framer Motion (ReactJS) | UI Clone](https://www.youtube.com/watch?v=O2xM5H7Ooj4&t=9s), créditos a [Rocketseat 🚀](https://github.com/Rocketseat)
